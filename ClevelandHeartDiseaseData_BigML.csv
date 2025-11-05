@@ -1,0 +1,304 @@
+﻿age,gender,Chest_pain_type',Resting_blood_sugar,chol,FastingBloodSugar,resting_electrocardiographic_results,thalach,Exercise_induced_Angina,ST_depression_induced_by_exercise,slope_of_peak_exercise_Stsegment,number_of_vessels_coloring,thal,outcome
+63,male,Typical_angina,145,233,Good,Venticular_hypertrophy,150,Yes,2,Downsloping,0,Downsloping+M2:MNormal04,No
+67,male,Asymptomatic,160,286,Poor,Venticular_hypertrophy,108,No,1,Flat,3,0,Yes
+67,male,Asymptomatic,120,229,Poor,Venticular_hypertrophy,129,No,2,Flat,2,REversable_defect,Yes
+37,male,Non-anginal pain,130,250,Poor,Normal,187,Yes,3,Downsloping,0,0,No
+41,female,Atypical_angina,130,204,Poor,Venticular_hypertrophy,172,Yes,1,Upsloping,0,0,No
+56,male,Atypical_angina,120,236,Poor,Normal,178,Yes,0,Upsloping,0,0,No
+62,female,Asymptomatic,140,268,Poor,Venticular_hypertrophy,160,Yes,3,Downsloping,2,0,Yes
+57,female,Asymptomatic,120,354,Poor,Normal,163,No,0,Upsloping,0,0,No
+63,male,Asymptomatic,130,254,Poor,Venticular_hypertrophy,147,Yes,1,Flat,1,REversable_defect,Yes
+53,male,Asymptomatic,140,203,Good,Venticular_hypertrophy,155,No,3,Downsloping,0,REversable_defect,Yes
+57,male,Asymptomatic,140,192,Poor,Normal,148,Yes,0,Flat,0,Fixed_effect,No
+56,female,Atypical_angina,140,294,Poor,Venticular_hypertrophy,153,Yes,1,Flat,0,0,No
+56,male,Non-anginal pain,130,256,Good,Venticular_hypertrophy,142,No,0,Flat,1,Fixed_effect,Yes
+44,male,Atypical_angina,120,263,Poor,Normal,173,Yes,0,Upsloping,0,REversable_defect,No
+52,male,Non-anginal pain,172,199,Good,Normal,162,Yes,0,Upsloping,0,REversable_defect,No
+57,male,Non-anginal pain,150,168,Poor,Normal,174,Yes,1,Upsloping,0,0,No
+48,male,Atypical_angina,110,229,Poor,Normal,168,Yes,1,Downsloping,0,REversable_defect,Yes
+54,male,Asymptomatic,140,239,Poor,Normal,160,Yes,1,Upsloping,0,0,No
+48,female,Non-anginal pain,130,275,Poor,Normal,139,Yes,0,Upsloping,0,0,No
+49,male,Atypical_angina,130,266,Poor,Normal,171,Yes,0,Upsloping,0,0,No
+64,male,Typical_angina,110,211,Poor,Venticular_hypertrophy,144,No,1,Flat,0,0,No
+58,female,Typical_angina,150,283,Good,Venticular_hypertrophy,162,Yes,1,Upsloping,0,0,No
+58,male,Atypical_angina,120,284,Poor,Venticular_hypertrophy,160,Yes,1,Flat,0,0,Yes
+58,male,Non-anginal pain,132,224,Poor,Venticular_hypertrophy,173,Yes,3,Upsloping,2,REversable_defect,Yes
+60,male,Asymptomatic,130,206,Poor,Venticular_hypertrophy,132,No,2,Flat,2,REversable_defect,Yes
+50,female,Non-anginal pain,120,219,Poor,Normal,158,Yes,1,Flat,0,0,No
+58,female,Non-anginal pain,120,340,Poor,Normal,172,Yes,0,Upsloping,0,0,No
+66,female,Typical_angina,150,226,Poor,Normal,114,Yes,2,Downsloping,0,0,No
+43,male,Asymptomatic,150,247,Poor,Normal,171,Yes,1,Upsloping,0,0,No
+40,male,Asymptomatic,110,167,Poor,Venticular_hypertrophy,114,No,2,Flat,0,REversable_defect,Yes
+69,female,Typical_angina,140,239,Poor,Normal,151,Yes,1,Upsloping,2,0,No
+60,male,Asymptomatic,117,230,Good,Normal,160,No,1,Upsloping,2,7,Yes
+64,male,Non-anginal pain,140,335,Poor,Normal,158,Yes,0,Upsloping,0,0,Yes
+59,male,Asymptomatic,135,234,Poor,Normal,161,Yes,0,Flat,0,7,No
+44,male,Non-anginal pain,130,233,Poor,Normal,179,No,0,Upsloping,0,0,No
+42,male,Asymptomatic,140,226,Poor,Normal,178,Yes,0,Upsloping,0,0,No
+43,male,Asymptomatic,120,177,Poor,Venticular_hypertrophy,120,No,2,Flat,0,7,Yes
+57,male,Asymptomatic,150,276,Poor,Venticular_hypertrophy,112,No,0,Flat,1,6,Yes
+55,male,Asymptomatic,132,353,Poor,Normal,132,No,1,Flat,1,7,Yes
+61,male,Non-anginal pain,150,243,Good,Normal,137,No,1,Flat,0,0,No
+65,female,Asymptomatic,150,225,Poor,Venticular_hypertrophy,114,Yes,1,Flat,3,7,Yes
+40,male,Typical_angina,140,199,Poor,Normal,178,No,1,Upsloping,0,7,No
+71,female,Atypical_angina,160,302,Poor,Normal,162,Yes,0,Upsloping,2,0,No
+59,male,Non-anginal pain,150,212,Good,Normal,157,Yes,1,Upsloping,0,0,No
+61,female,Asymptomatic,130,330,Poor,Venticular_hypertrophy,169,Yes,0,Upsloping,0,0,Yes
+58,male,Non-anginal pain,112,230,Poor,Venticular_hypertrophy,165,Yes,2,Flat,1,7,Yes
+51,male,Non-anginal pain,110,175,Poor,Normal,123,Yes,0,Upsloping,0,0,No
+50,male,Asymptomatic,150,243,Poor,Venticular_hypertrophy,128,Yes,2,Flat,0,7,Yes
+65,female,Non-anginal pain,140,417,Good,Venticular_hypertrophy,157,Yes,0,Upsloping,1,0,No
+53,male,Non-anginal pain,130,197,Good,Venticular_hypertrophy,152,Yes,1,Downsloping,0,0,No
+41,female,Atypical_angina,105,198,Poor,Normal,168,Yes,0,Upsloping,1,0,No
+65,male,Asymptomatic,120,177,Poor,Normal,140,Yes,0,Upsloping,0,7,No
+44,male,Asymptomatic,112,290,Poor,Venticular_hypertrophy,153,Yes,0,Upsloping,1,0,Yes
+44,male,Atypical_angina,130,219,Poor,Venticular_hypertrophy,188,Yes,0,Upsloping,0,0,No
+60,male,Asymptomatic,130,253,Poor,Normal,144,No,1,Upsloping,1,7,Yes
+54,male,Asymptomatic,124,266,Poor,Venticular_hypertrophy,109,No,2,Flat,1,7,Yes
+50,male,Non-anginal pain,140,233,Poor,Normal,163,Yes,0,Flat,1,7,Yes
+41,male,Asymptomatic,110,172,Poor,Venticular_hypertrophy,158,Yes,0,Upsloping,0,7,Yes
+54,male,Non-anginal pain,125,273,Poor,Venticular_hypertrophy,152,Yes,0,Downsloping,1,0,No
+51,male,Typical_angina,125,213,Poor,Venticular_hypertrophy,125,No,1,Upsloping,1,0,No
+51,female,Asymptomatic,130,305,Poor,Normal,142,No,1,Flat,0,7,Yes
+46,female,Non-anginal pain,142,177,Poor,Venticular_hypertrophy,160,No,1,Downsloping,0,0,No
+58,male,Asymptomatic,128,216,Poor,Venticular_hypertrophy,131,No,2,Flat,3,7,Yes
+54,female,Non-anginal pain,135,304,Good,Normal,170,Yes,0,Upsloping,0,0,No
+54,male,Asymptomatic,120,188,Poor,Normal,113,Yes,1,Flat,1,7,Yes
+60,male,Asymptomatic,145,282,Poor,Venticular_hypertrophy,142,No,2,Flat,2,7,Yes
+60,male,Non-anginal pain,140,185,Poor,Venticular_hypertrophy,155,Yes,3,Flat,0,0,Yes
+54,male,Non-anginal pain,150,232,Poor,Venticular_hypertrophy,165,Yes,1,Upsloping,0,7,No
+59,male,Asymptomatic,170,326,Poor,Venticular_hypertrophy,140,No,3,Downsloping,0,7,Yes
+46,male,Non-anginal pain,150,231,Poor,Normal,147,Yes,3,Flat,0,0,Yes
+65,female,Non-anginal pain,155,269,Poor,Normal,148,Yes,0,Upsloping,0,0,No
+67,male,Asymptomatic,125,254,Good,Normal,163,Yes,0,Flat,2,7,Yes
+62,male,Asymptomatic,120,267,Poor,Normal,99,No,1,Flat,2,7,Yes
+65,male,Asymptomatic,110,248,Poor,Venticular_hypertrophy,158,Yes,0,Upsloping,2,6,Yes
+44,male,Asymptomatic,110,197,Poor,Venticular_hypertrophy,177,Yes,0,Upsloping,1,0,Yes
+65,female,Non-anginal pain,160,360,Poor,Venticular_hypertrophy,151,Yes,0,Upsloping,0,0,No
+60,male,Asymptomatic,125,258,Poor,Venticular_hypertrophy,141,No,2,Flat,1,7,Yes
+51,female,Non-anginal pain,140,308,Poor,Venticular_hypertrophy,142,Yes,1,Upsloping,1,0,No
+48,male,Atypical_angina,130,245,Poor,Venticular_hypertrophy,180,Yes,0,Flat,0,0,No
+58,male,Asymptomatic,150,270,Poor,Venticular_hypertrophy,111,No,0,Upsloping,0,7,Yes
+45,male,Asymptomatic,104,208,Poor,Venticular_hypertrophy,148,No,3,Flat,0,0,No
+53,female,Asymptomatic,130,264,Poor,Venticular_hypertrophy,143,Yes,0,Flat,0,0,No
+39,male,Non-anginal pain,140,321,Poor,Venticular_hypertrophy,182,Yes,0,Upsloping,0,0,No
+68,male,Non-anginal pain,180,274,Good,Venticular_hypertrophy,150,No,1,Flat,0,7,Yes
+52,male,Atypical_angina,120,325,Poor,Normal,172,Yes,0,Upsloping,0,0,No
+44,male,Non-anginal pain,140,235,Poor,Venticular_hypertrophy,180,Yes,0,Upsloping,0,0,No
+47,male,Non-anginal pain,138,257,Poor,Venticular_hypertrophy,156,Yes,0,Upsloping,0,0,No
+53,female,Non-anginal pain,128,216,Poor,Venticular_hypertrophy,115,Yes,0,Upsloping,0,#NULL!,No
+53,female,Asymptomatic,138,234,Poor,Venticular_hypertrophy,160,Yes,0,Upsloping,0,0,No
+51,female,Non-anginal pain,130,256,Poor,Venticular_hypertrophy,149,Yes,0,Upsloping,0,0,No
+66,male,Asymptomatic,120,302,Poor,Venticular_hypertrophy,151,Yes,0,Flat,0,0,No
+62,female,Asymptomatic,160,164,Poor,Venticular_hypertrophy,145,Yes,6,Downsloping,3,7,Yes
+62,male,Non-anginal pain,130,231,Poor,Normal,146,Yes,1,Flat,3,7,No
+44,female,Non-anginal pain,108,141,Poor,Normal,175,Yes,0,Flat,0,0,No
+63,female,Non-anginal pain,135,252,Poor,Venticular_hypertrophy,172,Yes,0,Upsloping,0,0,No
+52,male,Asymptomatic,128,255,Poor,Normal,161,No,0,Upsloping,1,7,Yes
+59,male,Asymptomatic,110,239,Poor,Venticular_hypertrophy,142,No,1,Flat,1,7,Yes
+60,female,Asymptomatic,150,258,Poor,Venticular_hypertrophy,157,Yes,2,Flat,2,7,Yes
+52,male,Atypical_angina,134,201,Poor,Normal,158,Yes,0,Upsloping,1,0,No
+48,male,Asymptomatic,122,222,Poor,Venticular_hypertrophy,186,Yes,0,Upsloping,0,0,No
+45,male,Asymptomatic,115,260,Poor,Venticular_hypertrophy,185,Yes,0,Upsloping,0,0,No
+34,male,Typical_angina,118,182,Poor,Venticular_hypertrophy,174,Yes,0,Upsloping,0,0,No
+57,female,Asymptomatic,128,303,Poor,Venticular_hypertrophy,159,Yes,0,Upsloping,1,0,No
+71,female,Non-anginal pain,110,265,Good,Venticular_hypertrophy,130,Yes,0,Upsloping,1,0,No
+49,male,Non-anginal pain,120,188,Poor,Normal,139,Yes,2,Flat,3,7,Yes
+54,male,Atypical_angina,108,309,Poor,Normal,156,Yes,0,Upsloping,0,7,No
+59,male,Asymptomatic,140,177,Poor,Normal,162,No,0,Upsloping,1,7,Yes
+57,male,Non-anginal pain,128,229,Poor,Venticular_hypertrophy,150,Yes,0,Flat,1,7,Yes
+61,male,Asymptomatic,120,260,Poor,Normal,140,No,3,Flat,1,7,Yes
+39,male,Asymptomatic,118,219,Poor,Normal,140,Yes,1,Flat,0,7,Yes
+61,female,Asymptomatic,145,307,Poor,Venticular_hypertrophy,146,No,1,Flat,0,7,Yes
+56,male,Asymptomatic,125,249,Good,Venticular_hypertrophy,144,No,1,Flat,1,0,Yes
+52,male,Typical_angina,118,186,Poor,Venticular_hypertrophy,190,Yes,0,Flat,0,6,No
+43,female,Asymptomatic,132,341,Good,Venticular_hypertrophy,136,No,3,Flat,0,7,Yes
+62,female,Non-anginal pain,130,263,Poor,Normal,97,Yes,1,Flat,1,7,Yes
+41,male,Atypical_angina,135,203,Poor,Normal,132,Yes,0,Flat,0,6,No
+58,male,Non-anginal pain,140,211,Good,Venticular_hypertrophy,165,Yes,0,Upsloping,0,0,No
+35,female,Asymptomatic,138,183,Poor,Normal,182,Yes,1,Upsloping,0,0,No
+63,male,Asymptomatic,130,330,Good,Venticular_hypertrophy,132,No,1,Upsloping,3,7,Yes
+65,male,Asymptomatic,135,254,Poor,Venticular_hypertrophy,127,Yes,2,Flat,1,7,Yes
+48,male,Asymptomatic,130,256,Good,Venticular_hypertrophy,150,No,0,Upsloping,2,7,Yes
+63,female,Asymptomatic,150,407,Poor,Venticular_hypertrophy,154,Yes,4,Flat,3,7,Yes
+51,male,Non-anginal pain,100,222,Poor,Normal,143,No,1,Flat,0,0,No
+55,male,Asymptomatic,140,217,Poor,Normal,111,No,5,Downsloping,0,7,Yes
+65,male,Typical_angina,138,282,Good,Venticular_hypertrophy,174,Yes,1,Flat,1,0,Yes
+45,female,Atypical_angina,130,234,Poor,Venticular_hypertrophy,175,Yes,0,Flat,0,0,No
+56,female,Asymptomatic,200,288,Good,Venticular_hypertrophy,133,No,4,Downsloping,2,7,Yes
+54,male,Asymptomatic,110,239,Poor,Normal,126,No,2,Flat,1,7,Yes
+44,male,Atypical_angina,120,220,Poor,Normal,170,Yes,0,Upsloping,0,0,No
+62,female,Asymptomatic,124,209,Poor,Normal,163,Yes,0,Upsloping,0,0,No
+54,male,Non-anginal pain,120,258,Poor,Venticular_hypertrophy,147,Yes,0,Flat,0,7,No
+51,male,Non-anginal pain,94,227,Poor,Normal,154,No,0,Upsloping,1,7,No
+29,male,Atypical_angina,130,204,Poor,Venticular_hypertrophy,202,Yes,0,Upsloping,0,0,No
+51,male,Asymptomatic,140,261,Poor,Venticular_hypertrophy,186,No,0,Upsloping,0,0,No
+43,female,Non-anginal pain,122,213,Poor,Normal,165,Yes,0,Flat,0,0,No
+55,female,Atypical_angina,135,250,Poor,Venticular_hypertrophy,161,Yes,1,Flat,0,0,No
+70,male,Asymptomatic,145,174,Poor,Normal,125,No,2,Downsloping,0,7,Yes
+62,male,Atypical_angina,120,281,Poor,Venticular_hypertrophy,103,Yes,1,Flat,1,7,Yes
+35,male,Asymptomatic,120,198,Poor,Normal,130,No,1,Flat,0,7,Yes
+51,male,Non-anginal pain,125,245,Good,Venticular_hypertrophy,166,Yes,2,Flat,0,0,No
+59,male,Atypical_angina,140,221,Poor,Normal,164,No,0,Upsloping,0,0,No
+59,male,Typical_angina,170,288,Poor,Venticular_hypertrophy,159,Yes,0,Flat,0,7,Yes
+52,male,Atypical_angina,128,205,Good,Normal,184,Yes,0,Upsloping,0,0,No
+64,male,Non-anginal pain,125,309,Poor,Normal,131,No,1,Flat,0,7,Yes
+58,male,Non-anginal pain,105,240,Poor,Venticular_hypertrophy,154,No,0,Flat,0,7,No
+47,male,Non-anginal pain,108,243,Poor,Normal,152,Yes,0,Upsloping,0,0,Yes
+57,male,Asymptomatic,165,289,Good,Venticular_hypertrophy,124,Yes,1,Flat,3,7,Yes
+41,male,Non-anginal pain,112,250,Poor,Normal,179,Yes,0,Upsloping,0,0,No
+45,male,Atypical_angina,128,308,Poor,Venticular_hypertrophy,170,Yes,0,Upsloping,0,0,No
+60,female,Non-anginal pain,102,318,Poor,Normal,160,Yes,0,Upsloping,1,0,No
+52,male,Typical_angina,152,298,Good,Normal,178,Yes,1,Flat,0,7,No
+42,female,Asymptomatic,102,265,Poor,Venticular_hypertrophy,122,Yes,0,Flat,0,0,No
+67,female,Non-anginal pain,115,564,Poor,Venticular_hypertrophy,160,Yes,1,Flat,0,7,No
+55,male,Asymptomatic,160,289,Poor,Venticular_hypertrophy,145,No,0,Flat,1,7,Yes
+64,male,Asymptomatic,120,246,Poor,Venticular_hypertrophy,96,No,2,Downsloping,1,0,Yes
+70,male,Asymptomatic,130,322,Poor,Venticular_hypertrophy,109,Yes,2,Flat,3,0,Yes
+51,male,Asymptomatic,140,299,Poor,Normal,173,No,1,Upsloping,0,7,Yes
+58,male,Asymptomatic,125,300,Poor,Venticular_hypertrophy,171,Yes,0,Upsloping,2,7,Yes
+60,male,Asymptomatic,140,293,Poor,Venticular_hypertrophy,170,Yes,1,Flat,2,7,Yes
+68,male,Non-anginal pain,118,277,Poor,Normal,151,Yes,1,Upsloping,1,7,No
+46,male,Atypical_angina,101,197,Good,Normal,156,Yes,0,Upsloping,0,7,No
+77,male,Asymptomatic,125,304,Poor,Venticular_hypertrophy,162,No,0,Upsloping,3,0,Yes
+54,female,Non-anginal pain,110,214,Poor,Normal,158,Yes,1,Flat,0,0,No
+58,female,Asymptomatic,100,248,Poor,Venticular_hypertrophy,122,Yes,1,Flat,0,0,No
+48,male,Non-anginal pain,124,255,Good,Normal,175,Yes,0,Upsloping,2,0,No
+57,male,Asymptomatic,132,207,Poor,Normal,168,No,0,Upsloping,0,7,No
+52,male,Non-anginal pain,138,223,Poor,Normal,169,Yes,0,Upsloping,#NULL!,0,No
+54,female,Atypical_angina,132,288,Good,Venticular_hypertrophy,159,No,0,Upsloping,1,0,No
+35,male,Asymptomatic,126,282,Poor,Venticular_hypertrophy,156,No,0,Upsloping,0,7,Yes
+45,female,Atypical_angina,112,160,Poor,Normal,138,Yes,0,Flat,0,0,No
+70,male,Non-anginal pain,160,269,Poor,Normal,112,No,2,Flat,1,7,Yes
+53,male,Asymptomatic,142,226,Poor,Venticular_hypertrophy,111,No,0,Upsloping,0,7,No
+59,female,Asymptomatic,174,249,Poor,Normal,143,No,0,Flat,0,0,Yes
+62,female,Asymptomatic,140,394,Poor,Venticular_hypertrophy,157,Yes,1,Flat,0,0,No
+64,male,Asymptomatic,145,212,Poor,Venticular_hypertrophy,132,Yes,2,Flat,2,6,Yes
+57,male,Asymptomatic,152,274,Poor,Normal,88,No,1,Flat,1,7,Yes
+52,male,Asymptomatic,108,233,Good,Normal,147,Yes,0,Upsloping,3,7,No
+56,male,Asymptomatic,132,184,Poor,Venticular_hypertrophy,105,No,2,Flat,1,6,Yes
+43,male,Non-anginal pain,130,315,Poor,Normal,162,Yes,1,Upsloping,1,0,No
+53,male,Non-anginal pain,130,246,Good,Venticular_hypertrophy,173,Yes,0,Upsloping,3,0,No
+48,male,Asymptomatic,124,274,Poor,Venticular_hypertrophy,166,Yes,0,Flat,0,7,Yes
+56,female,Asymptomatic,134,409,Poor,Venticular_hypertrophy,150,No,1,Flat,2,7,Yes
+42,male,Typical_angina,148,244,Poor,Venticular_hypertrophy,178,Yes,0,Upsloping,2,0,No
+59,male,Typical_angina,178,270,Poor,Venticular_hypertrophy,145,Yes,4,Downsloping,0,7,No
+63,female,Atypical_angina,140,195,Poor,Normal,179,Yes,0,Upsloping,2,0,No
+42,male,Non-anginal pain,120,240,Good,Normal,194,Yes,0,Downsloping,0,7,No
+66,male,Atypical_angina,160,246,Poor,Normal,120,No,0,Flat,3,6,Yes
+54,male,Atypical_angina,192,283,Poor,Venticular_hypertrophy,195,Yes,0,Upsloping,1,7,Yes
+69,male,Non-anginal pain,140,254,Poor,Venticular_hypertrophy,146,Yes,2,Flat,3,7,Yes
+50,male,Non-anginal pain,129,196,Poor,Normal,163,Yes,0,Upsloping,0,0,No
+51,male,Asymptomatic,140,298,Poor,Normal,122,No,4,Flat,3,7,Yes
+43,male,Asymptomatic,132,247,Good,Venticular_hypertrophy,143,No,0,Flat,#NULL!,7,Yes
+62,female,Asymptomatic,138,294,Good,Normal,106,Yes,1,Flat,3,0,Yes
+68,female,Non-anginal pain,120,211,Poor,Venticular_hypertrophy,115,Yes,1,Flat,0,0,No
+67,male,Asymptomatic,100,299,Poor,Venticular_hypertrophy,125,No,0,Flat,2,0,Yes
+69,male,Typical_angina,160,234,Good,Venticular_hypertrophy,131,Yes,0,Flat,1,0,No
+45,female,Asymptomatic,138,236,Poor,Venticular_hypertrophy,152,No,0,Flat,0,0,No
+50,female,Atypical_angina,120,244,Poor,Normal,162,Yes,1,Upsloping,0,0,No
+59,male,Typical_angina,160,273,Poor,Venticular_hypertrophy,125,Yes,0,Upsloping,0,0,Yes
+50,female,Asymptomatic,110,254,Poor,Venticular_hypertrophy,159,Yes,0,Upsloping,0,0,No
+64,female,Asymptomatic,180,325,Poor,Normal,154,No,0,Upsloping,0,0,No
+57,male,Non-anginal pain,150,126,Good,Normal,173,Yes,0,Upsloping,1,7,No
+64,female,Non-anginal pain,140,313,Poor,Normal,133,Yes,0,Upsloping,0,7,No
+43,male,Asymptomatic,110,211,Poor,Normal,161,Yes,0,Upsloping,0,7,No
+45,male,Asymptomatic,142,309,Poor,Venticular_hypertrophy,147,No,0,Flat,3,7,Yes
+58,male,Asymptomatic,128,259,Poor,Venticular_hypertrophy,130,No,3,Flat,2,7,Yes
+50,male,Asymptomatic,144,200,Poor,Venticular_hypertrophy,126,No,0,Flat,0,7,Yes
+55,male,Atypical_angina,130,262,Poor,Normal,155,Yes,0,Upsloping,0,0,No
+62,female,Asymptomatic,150,244,Poor,Normal,154,No,1,Flat,0,0,Yes
+37,female,Non-anginal pain,120,215,Poor,Normal,170,Yes,0,Upsloping,0,0,No
+38,male,Typical_angina,120,231,Poor,Normal,182,No,3,Flat,0,7,Yes
+41,male,Non-anginal pain,130,214,Poor,Venticular_hypertrophy,168,Yes,2,Flat,0,0,No
+66,female,Asymptomatic,178,228,Good,Normal,165,No,1,Flat,2,7,Yes
+52,male,Asymptomatic,112,230,Poor,Normal,160,Yes,0,Upsloping,1,0,Yes
+56,male,Typical_angina,120,193,Poor,Venticular_hypertrophy,162,Yes,1,Flat,0,7,No
+46,female,Atypical_angina,105,204,Poor,Normal,172,Yes,0,Upsloping,0,0,No
+46,female,Asymptomatic,138,243,Poor,Venticular_hypertrophy,152,No,0,Flat,0,0,No
+64,female,Asymptomatic,130,303,Poor,Normal,122,Yes,2,Flat,2,0,No
+59,male,Asymptomatic,138,271,Poor,Venticular_hypertrophy,182,Yes,0,Upsloping,0,0,No
+41,female,Non-anginal pain,112,268,Poor,Venticular_hypertrophy,172,No,0,Upsloping,0,0,No
+54,female,Non-anginal pain,108,267,Poor,Venticular_hypertrophy,167,Yes,0,Upsloping,0,0,No
+39,female,Non-anginal pain,94,199,Poor,Normal,179,Yes,0,Upsloping,0,0,No
+53,male,Asymptomatic,123,282,Poor,Normal,95,No,2,Flat,2,7,Yes
+63,female,Asymptomatic,108,269,Poor,Normal,169,No,1,Flat,2,0,Yes
+34,female,Atypical_angina,118,210,Poor,Normal,192,Yes,0,Upsloping,0,0,No
+47,male,Asymptomatic,112,204,Poor,Normal,143,Yes,0,Upsloping,0,0,No
+67,female,Non-anginal pain,152,277,Poor,Normal,172,Yes,0,Upsloping,1,0,No
+54,male,Asymptomatic,110,206,Poor,Venticular_hypertrophy,108,No,0,Flat,1,0,Yes
+66,male,Asymptomatic,112,212,Poor,Venticular_hypertrophy,132,No,0,Upsloping,1,0,Yes
+52,female,Non-anginal pain,136,196,Poor,Venticular_hypertrophy,169,Yes,0,Flat,0,0,No
+55,female,Asymptomatic,180,327,Poor,Abnormal,117,No,3,Flat,0,0,Yes
+49,male,Non-anginal pain,118,149,Poor,Venticular_hypertrophy,126,Yes,0,Upsloping,3,0,Yes
+74,female,Atypical_angina,120,269,Poor,Venticular_hypertrophy,121,No,0,Upsloping,1,0,No
+54,female,Non-anginal pain,160,201,Poor,Normal,163,Yes,0,Upsloping,1,0,No
+54,male,Asymptomatic,122,286,Poor,Venticular_hypertrophy,116,No,3,Flat,2,0,Yes
+56,male,Asymptomatic,130,283,Good,Venticular_hypertrophy,103,No,1,Downsloping,0,7,Yes
+46,male,Asymptomatic,120,249,Poor,Venticular_hypertrophy,144,Yes,0,Upsloping,0,7,Yes
+49,female,Atypical_angina,134,271,Poor,Normal,162,Yes,0,Flat,0,0,No
+42,male,Atypical_angina,120,295,Poor,Normal,162,Yes,0,Upsloping,0,0,No
+41,male,Atypical_angina,110,235,Poor,Normal,153,Yes,0,Upsloping,0,0,No
+41,female,Atypical_angina,126,306,Poor,Normal,163,Yes,0,Upsloping,0,0,No
+49,female,Asymptomatic,130,269,Poor,Normal,163,Yes,0,Upsloping,0,0,No
+61,male,Typical_angina,134,234,Poor,Normal,145,Yes,2,Flat,2,0,Yes
+60,female,Non-anginal pain,120,178,Good,Normal,96,Yes,0,Upsloping,0,0,No
+67,male,Asymptomatic,120,237,Poor,Normal,71,Yes,1,Flat,0,0,Yes
+58,male,Asymptomatic,100,234,Poor,Normal,156,Yes,0,Upsloping,1,7,Yes
+47,male,Asymptomatic,110,275,Poor,Venticular_hypertrophy,118,No,1,Flat,1,0,Yes
+52,male,Asymptomatic,125,212,Poor,Normal,168,Yes,1,Upsloping,2,7,Yes
+62,male,Atypical_angina,128,208,Good,Venticular_hypertrophy,140,Yes,0,Upsloping,0,0,No
+57,male,Asymptomatic,110,201,Poor,Normal,126,No,1,Flat,0,6,No
+58,male,Asymptomatic,146,218,Poor,Normal,105,Yes,2,Flat,1,7,Yes
+64,male,Asymptomatic,128,263,Poor,Normal,105,No,0,Flat,1,7,No
+51,female,Non-anginal pain,120,295,Poor,Venticular_hypertrophy,157,Yes,0,Upsloping,0,0,No
+43,male,Asymptomatic,115,303,Poor,Normal,181,Yes,1,Flat,0,0,No
+42,female,Non-anginal pain,120,209,Poor,Normal,173,Yes,0,Flat,0,0,No
+67,female,Asymptomatic,106,223,Poor,Normal,142,Yes,0,Upsloping,2,0,No
+76,female,Non-anginal pain,140,197,Poor,Abnormal,116,Yes,1,Flat,0,0,No
+70,male,Atypical_angina,156,245,Poor,Venticular_hypertrophy,143,Yes,0,Upsloping,0,0,No
+57,male,Atypical_angina,124,261,Poor,Normal,141,Yes,0,Upsloping,0,7,Yes
+44,female,Non-anginal pain,118,242,Poor,Normal,149,Yes,0,Flat,1,0,No
+58,female,Atypical_angina,136,319,Good,Venticular_hypertrophy,152,Yes,0,Upsloping,2,0,Yes
+60,female,Typical_angina,150,240,Poor,Normal,171,Yes,0,Upsloping,0,0,No
+44,male,Non-anginal pain,120,226,Poor,Normal,169,Yes,0,Upsloping,0,0,No
+61,male,Asymptomatic,138,166,Poor,Venticular_hypertrophy,125,No,3,Flat,1,0,Yes
+42,male,Asymptomatic,136,315,Poor,Normal,125,No,1,Flat,0,6,Yes
+52,male,Asymptomatic,128,204,Good,Normal,156,No,1,Flat,0,#NULL!,Yes
+59,male,Non-anginal pain,126,218,Good,Normal,134,Yes,2,Flat,1,6,Yes
+40,male,Asymptomatic,152,223,Poor,Normal,181,Yes,0,Upsloping,0,7,Yes
+42,male,Non-anginal pain,130,180,Poor,Normal,150,Yes,0,Upsloping,0,0,No
+61,male,Asymptomatic,140,207,Poor,Venticular_hypertrophy,138,No,1,Upsloping,1,7,Yes
+66,male,Asymptomatic,160,228,Poor,Venticular_hypertrophy,138,Yes,2,Upsloping,0,6,No
+46,male,Asymptomatic,140,311,Poor,Normal,120,No,1,Flat,2,7,Yes
+71,female,Asymptomatic,112,149,Poor,Normal,125,Yes,1,Flat,0,0,No
+59,male,Typical_angina,134,204,Poor,Normal,162,Yes,0,Upsloping,2,0,Yes
+64,male,Typical_angina,170,227,Poor,Venticular_hypertrophy,155,Yes,0,Flat,0,7,No
+66,female,Non-anginal pain,146,278,Poor,Venticular_hypertrophy,152,Yes,0,Flat,1,0,No
+39,female,Non-anginal pain,138,220,Poor,Normal,152,Yes,0,Flat,0,0,No
+57,male,Atypical_angina,154,232,Poor,Venticular_hypertrophy,164,Yes,0,Upsloping,1,0,Yes
+58,female,Asymptomatic,130,197,Poor,Normal,131,Yes,0,Flat,0,0,No
+57,male,Asymptomatic,110,335,Poor,Normal,143,No,3,Flat,1,7,Yes
+47,male,Non-anginal pain,130,253,Poor,Normal,179,Yes,0,Upsloping,0,0,No
+55,female,Asymptomatic,128,205,Poor,Abnormal,130,No,2,Flat,1,7,Yes
+35,male,Atypical_angina,122,192,Poor,Normal,174,Yes,0,Upsloping,0,0,No
+61,male,Asymptomatic,148,203,Poor,Normal,161,Yes,0,Upsloping,1,7,Yes
+58,male,Asymptomatic,114,318,Poor,Abnormal,140,Yes,4,Downsloping,3,6,Yes
+58,female,Asymptomatic,170,225,Good,Venticular_hypertrophy,146,No,2,Flat,2,6,Yes
+58,male,Atypical_angina,125,220,Poor,Normal,144,Yes,0,Flat,#NULL!,7,No
+56,male,Atypical_angina,130,221,Poor,Venticular_hypertrophy,163,Yes,0,Upsloping,0,7,No
+56,male,Atypical_angina,120,240,Poor,Normal,169,Yes,0,Downsloping,0,0,No
+67,male,Non-anginal pain,152,212,Poor,Venticular_hypertrophy,150,Yes,0,Flat,0,7,Yes
+55,female,Atypical_angina,132,342,Poor,Normal,166,Yes,1,Upsloping,0,0,No
+44,male,Asymptomatic,120,169,Poor,Normal,144,No,2,Downsloping,0,6,Yes
+63,male,Asymptomatic,140,187,Poor,Venticular_hypertrophy,144,No,4,Upsloping,2,7,Yes
+63,female,Asymptomatic,124,197,Poor,Normal,136,No,0,Flat,0,0,Yes
+41,male,Atypical_angina,120,157,Poor,Normal,182,Yes,0,Upsloping,0,0,No
+59,male,Asymptomatic,164,176,Good,Venticular_hypertrophy,90,Yes,1,Flat,2,6,Yes
+57,female,Asymptomatic,140,241,Poor,Normal,123,No,0,Flat,0,7,Yes
+45,male,Typical_angina,110,264,Poor,Normal,132,Yes,1,Flat,0,7,Yes
+68,male,Asymptomatic,144,193,Good,Normal,141,Yes,3,Flat,2,7,Yes
+57,male,Asymptomatic,130,131,Poor,Normal,115,No,1,Flat,1,7,Yes
+57,female,Atypical_angina,130,236,Poor,Venticular_hypertrophy,174,Yes,0,Flat,1,0,Yes
+38,male,Non-anginal pain,138,175,Poor,Normal,173,Yes,0,Upsloping,#NULL!,0,No
+38,male,Non-anginal pain,138,175,Poor,Normal,173,Yes,0,Upsloping,#NULL!,0,No
